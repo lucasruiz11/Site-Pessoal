@@ -1,0 +1,21 @@
+#corpo{
+    text-align: center; 
+   
+
+}
+
+img{
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.textos{
+    width: 600px;
+    margin: auto;
+    background-color: rgb(200, 218, 212);
+    border-radius: 30px;
+}
+#filmes{
+    display: inline-flex;
+    margin: 10px;
+}
